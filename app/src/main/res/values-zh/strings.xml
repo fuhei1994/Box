@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EMO视界1.2</string>
+    <string name="app_name">EMO视戒TV版1.1</string>
     <string name="app_home">换源</string>
-    <string name="app_source">https://us1.wuaipan.com/api/v3/slave/source/0/dXBsb2Fkcy8yMDI0LzA0LzI5LzdOUUYwNkd4X2Vtby5qc29u/emo.json?sign=hEXOdashldXwhYbWxqsHOOR2bKU3QJPNzF4Cdp-TQmM%3D%3A0</string>
+    <string name="app_source">http://154.37.212.3:8889/down/liwk1uX54rTm.json</string>
 
     // Home Page //
     <string name="hm_ok">EMO视界加载成功</string>
